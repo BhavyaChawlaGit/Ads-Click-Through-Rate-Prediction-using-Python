@@ -1,11 +1,9 @@
 # Ads-Click-Through-Rate-Prediction-using-Python
-
-https://www.kaggle.com/datasets/gauravduttakiit/clickthrough-rate-prediction?resource=download
-
-
 This project aims to predict the click-through rate (CTR) for advertisements. It utilizes a RandomForestClassifier model from scikit-learn to perform the prediction based on the provided dataset.
 
 Ads Click-through rate prediction means predicting whether the user will click on the ad. In the task of ads click-through rate prediction, we need to train a Machine Learning model to find relationships between the characteristics of all the users who click on ads.
+
+The application is hosted and can be accessed at [https://ctrpredict.streamlit.app/](https://ctrpredict.streamlit.app/).
 
 ## Features
 
